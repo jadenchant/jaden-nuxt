@@ -1,15 +1,20 @@
 
 <script>
+import NuxtLogo from './NuxtLogo.vue';
 export default {
-  
+    components: { NuxtLogo }
 }
 </script>
 
 <template>
   <header class="bg-gray-200 h-20 w-full flex flex-row justify-center align-middle" >
-    <NuxtLink to="/" class="flex flex-1 justify-center align-middle bg-blue-100">
-      <h1 class="h-full w-full align-middle">Home</h1>
-    </NuxtLink>
+    
+    <NuxtLogo class="flex-1"/>
+    <div class="flex flex-1 h-20 w-full justify-center justify-items-center align-middle bg-blue-100">
+      <NuxtLink to="/" class="h-9 w-max my-5">
+        <h1 class="w-max text-center justify-center">Home</h1>
+      </NuxtLink>
+    </div>
     <NuxtLink to="/about" class="flex-1">
       About
     </NuxtLink>
