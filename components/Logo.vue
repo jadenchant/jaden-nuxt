@@ -1,0 +1,71 @@
+<template>
+<svg
+  class="logo"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="266.66666"
+   height="266.66666"
+   viewBox="0 0 266.66666 266.66666"
+   sodipodi:docname="jc.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"><metadata
+     id="metadata861"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18"><path
+         d="M 0,200 H 200 V 0 H 0 Z"
+         id="path16" /></clipPath></defs><sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:zoom="2.9250001"
+     inkscape:cx="133.33333"
+     inkscape:cy="130.25641"
+     inkscape:window-width="1388"
+     inkscape:window-height="1026"
+     inkscape:window-x="55"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g8" /><g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="JC Monogram"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,266.66667)"><g
+       transform="matrix(1.1728338,0,0,1.3852694,-15.410121,-35.419781)"
+       id="g12"><g
+         id="g14"
+         clip-path="url(#clipPath18)"><g
+           id="g20"
+           transform="translate(60.0228,156.0327)"><path
+             d="m 0,0 c -0.689,0 -1.247,-0.558 -1.247,-1.247 v -96.385 c 0,-12.305 -2.173,-20.984 -6.519,-26.037 -4.346,-5.055 -17.026,-10.592 -35.927,-1.313 -3.938,1.933 0.962,2.548 -2.805,12.174 -0.108,0.278 0.15,0.561 0.432,0.463 l 4.405,-1.527 c 0.037,-0.013 0.077,-0.024 0.115,-0.034 4.178,-1.064 8.015,-1.597 11.515,-1.597 3.417,0 5.969,0.549 7.654,1.649 1.684,1.097 2.856,2.844 3.515,5.236 0.659,2.392 0.989,5.786 0.989,10.18 v 97.191 c 0,0.689 -0.558,1.247 -1.247,1.247 h -11.642 c -0.688,0 -1.247,0.558 -1.247,1.247 v 11.275 c 0,0.689 0.559,1.248 1.247,1.248 h 42.404 c 0.688,0 1.247,-0.559 1.247,-1.248 V 1.247 C 12.889,0.558 12.33,0 11.642,0 Z"
+             style="fill:#d1d5db;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path22" /></g><g
+           id="g24"
+           transform="translate(182.6262,87.8487)"><path
+             d="m 0,0 -3.145,-10.621 c -3.837,-12.042 -8.336,-17.859 -17.837,-24.522 -9.644,-6.762 -20.959,-10.143 -33.948,-10.143 -10.693,0 -20.19,2.55 -28.491,7.653 -8.302,5.102 -14.758,11.963 -19.372,20.582 -4.615,8.617 -6.922,18.078 -6.922,28.381 0,11.181 2.355,21.141 7.068,29.883 4.712,8.739 11.217,15.514 19.519,20.324 8.301,4.809 17.798,7.215 28.491,7.215 2.4,0 10.295,-0.22 19.849,-3.589 6.498,-2.291 11.591,-5.281 15.235,-7.826 0.648,-0.453 1.533,0.009 1.53,0.799 l -0.005,1.226 c -0.004,0.9 0.719,1.616 1.605,1.605 l 11.509,-0.14 c 0.533,-0.007 0.961,-0.44 0.961,-0.973 V 32.518 c 0,-0.538 -0.436,-0.973 -0.973,-0.973 h -12.798 c -0.36,0 -0.687,0.203 -0.854,0.521 -3.59,6.829 -8.455,12.174 -14.599,16.031 -6.299,3.956 -13.209,5.933 -20.727,5.933 -7.277,0 -13.77,-1.917 -19.483,-5.749 C -79.1,44.447 -83.556,39.32 -86.753,32.9 c -0.569,-1.144 -1.826,-3.748 -2.884,-7.292 -0.599,-2.004 -1.914,-6.916 -1.914,-13.399 0.001,-7.714 1.864,-13.445 2.541,-15.373 0.913,-2.597 1.889,-4.587 2.477,-5.721 3.344,-6.445 7.946,-11.598 13.806,-15.454 5.859,-3.858 12.377,-5.786 19.555,-5.786 8.837,0 16.651,2.697 23.438,8.094 5.84,4.642 12.774,18.407 14.31,21.552 0.169,0.344 0.59,0.471 0.922,0.281 2.104,-1.205 5.939,-1.84 9.599,1.152"
+             style="fill:#d1d5db;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path26" /></g></g></g></g></svg>
+
+</template>
+
+<style>
+.logo {
+  height: 76px;
+  margin: auto;
+}
+</style>
